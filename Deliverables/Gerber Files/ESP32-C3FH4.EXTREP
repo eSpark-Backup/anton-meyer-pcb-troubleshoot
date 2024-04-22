@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: ESP32-C3FH4.GBR   4/20/2024  1:29:59 AM
+Gerber File Extension Report For: ESP32-C3FH4.GBR   4/22/2024  5:56:23 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,6 +16,7 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM30               Board_outline                           
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
