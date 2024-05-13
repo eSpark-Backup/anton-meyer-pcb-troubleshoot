@@ -1,3 +1,3 @@
-Layer Pairs Export File for PCB: C:\Users\eSpark\Desktop\antonmeyer-pcbtroubleshoot\Design_Files\ESP32-C3FH4.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32-c3fh4-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
-LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32-c3fh4-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+Layer Pairs Export File for PCB: C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\antonmeyer-pcbtroubleshoot\Design_Files\ESP32-C3FH4.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32-c3fh4-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32-c3fh4-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -2,6 +2,21 @@
 FileName = ESP32-C3FH4.GBR
 AutoAperture = True
 *************************************************************
+Generating : Dimensions
+      File : ESP32-C3FH4.GM1
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D14
+    D15
+    D20
+    D150
+    D151
+*************************************************************
+
+*************************************************************
 Generating : Board_outline
       File : ESP32-C3FH4.GM30
 
@@ -9,130 +24,33 @@ Generating : Board_outline
 
 
 Used DCodes :
-    D14
+    D20
 *************************************************************
 
 *************************************************************
-Generating : POWER
-      File : ESP32-C3FH4.GP2
+Generating : Keep-Out Layer
+      File : ESP32-C3FH4.GKO
 
-    Adding Layer      : POWER
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D95
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : ESP32-C3FH4.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
+    D16
     D17
-    D21
-    D22
-    D93
-    D94
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
+    D152
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : ESP32-C3FH4.GPB
+Generating : Bottom Overlay
+      File : ESP32-C3FH4.GBO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : ESP32-C3FH4.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D89
-    D90
-    D91
-    D92
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
+    D13
+    D14
+    D20
 *************************************************************
 
 *************************************************************
@@ -150,139 +68,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : ESP32-C3FH4.GBO
+Generating : Bottom Solder
+      File : ESP32-C3FH4.GBS
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Solder
 
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : ESP32-C3FH4.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D17
-    D21
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : ESP32-C3FH4.GP1
-
-    Adding Layer      : GND
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : ESP32-C3FH4.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D14
-    D16
-    D17
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ESP32-C3FH4.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
 *************************************************************
 
 *************************************************************
@@ -297,8 +103,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D50
-    D51
     D52
     D53
     D54
@@ -333,9 +137,6 @@ Used DCodes :
     D83
     D84
     D85
-    D86
-    D87
-    D88
 *************************************************************
 
 *************************************************************
@@ -350,11 +151,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D23
-    D24
-    D25
-    D26
-    D27
     D28
     D29
     D30
@@ -377,13 +173,88 @@ Used DCodes :
     D47
     D48
     D49
+    D50
+    D51
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : ESP32-C3FH4.GBS
+Generating : Top Overlay
+      File : ESP32-C3FH4.GTO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ESP32-C3FH4.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D86
+    D87
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ESP32-C3FH4.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -391,15 +262,178 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ESP32-C3FH4.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : ESP32-C3FH4.G2
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D139
+    D141
+    D143
+    D148
+    D149
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : ESP32-C3FH4.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D139
+    D144
+    D145
+    D146
+    D147
+    D149
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ESP32-C3FH4.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D20
+    D21
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
     D86
     D87
     D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
 *************************************************************
 
 *************************************************************
@@ -412,8 +446,11 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D123
-    D124
+    D14
+    D20
+    D153
+    D154
+    D155
 *************************************************************
 
 *************************************************************
@@ -426,6 +463,15 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D123
+    D153
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ESP32-C3FH4.GM
+
+
+Used DCodes :
+    D156
 *************************************************************
 
