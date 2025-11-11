@@ -4,9 +4,9 @@ D:\eSpark-Consultants\GitHub\antonmeyer-pcbtroubleshoot\Design-Files_v1.3\Projec
 ========================================================================================================================
 File Design Information:
 
-Date:       31/10/25
-Time:       17:32
-Revision:   Not in VersionControl
+Date:       11/11/25
+Time:       19:57
+Revision:   9800d570d1ddbb90ce0dd453a6ccdaddedd23300
 Variant:    No variations
 Units used: mm
 
@@ -39,7 +39,7 @@ Units used: mm
 "J1","14,6520mm","14,9940mm","TopLayer","0","14,6520mm","14,9940mm","11,9020mm","16,9940mm"
 "JP1","28,9512mm","10,4089mm","TopLayer","270","28,9512mm","10,4088mm","28,9512mm","15,4889mm"
 "KEY1","7,1218mm","40,8797mm","TopLayer","180","9,6520mm","42,1370mm","8,9916mm","39,8764mm"
-"L2","3,5184mm","31,7070mm","TopLayer","0","3,5184mm","31,7070mm","0,5684mm","31,7070mm"
+"L2","4,3823mm","30,6914mm","TopLayer","0","4,3823mm","30,6914mm","2,5823mm","30,6914mm"
 "LED1","4,1922mm","-0,1835mm","TopLayer","270","4,1857mm","-0,1834mm","4,1922mm","0,7055mm"
 "Q1","20,7264mm","11,9544mm","TopLayer","180","20,7264mm","11,9454mm","21,6764mm","13,0884mm"
 "Q2","7,4034mm","15,1197mm","TopLayer","0","7,4034mm","15,1287mm","6,4534mm","13,9857mm"
