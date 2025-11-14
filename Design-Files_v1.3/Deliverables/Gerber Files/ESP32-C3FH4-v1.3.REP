@@ -2,76 +2,10 @@
 FileName = ESP32-C3FH4-v1.3.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : ESP32-C3FH4-v1.3.GBL
+Generating : Top Solder
+      File : ESP32-C3FH4-v1.3.GTS
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D17
-    D21
-    D29
-    D31
-    D35
-    D83
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : ESP32-C3FH4-v1.3.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D31
-    D35
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D145
-    D146
-*************************************************************
-
-*************************************************************
-Generating : POWER
-      File : ESP32-C3FH4-v1.3.G2
-
-    Adding Layer      : POWER
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D137
-    D140
-    D144
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : ESP32-C3FH4-v1.3.GPT
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -79,161 +13,37 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
     D51
-    D84
-    D85
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ESP32-C3FH4-v1.3.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : ESP32-C3FH4-v1.3.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : ESP32-C3FH4-v1.3.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D15
-    D19
-    D153
-*************************************************************
-
-*************************************************************
-Generating : Board_outline
-      File : ESP32-C3FH4-v1.3.GM30
-
-    Adding Layer      : Board_outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Dimensions
-      File : ESP32-C3FH4-v1.3.GM1
-
-    Adding Layer      : Dimensions
-
-
-Used DCodes :
-    D11
-    D16
-    D17
-    D151
-    D152
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : ESP32-C3FH4-v1.3.G1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D138
-    D142
-    D143
-    D144
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
 *************************************************************
 
 *************************************************************
@@ -248,8 +58,8 @@ Generating : Top Layer
 Used DCodes :
     D10
     D11
-    D17
-    D21
+    D20
+    D27
     D28
     D29
     D30
@@ -273,7 +83,7 @@ Used DCodes :
     D48
     D49
     D50
-    D51
+    D82
     D83
     D84
     D85
@@ -335,52 +145,6 @@ Used DCodes :
     D141
     D142
     D143
-    D144
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : ESP32-C3FH4-v1.3.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
 *************************************************************
 
 *************************************************************
@@ -395,18 +159,129 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D53
-    D55
-    D59
+    D52
+    D54
+    D58
+    D75
     D76
     D77
     D78
     D79
     D80
     D81
-    D82
+    D146
     D147
-    D148
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : ESP32-C3FH4-v1.3.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D136
+    D141
+    D142
+    D143
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : ESP32-C3FH4-v1.3.GM1
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D11
+    D16
+    D83
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Board_outline
+      File : ESP32-C3FH4-v1.3.GM30
+
+    Adding Layer      : Board_outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : ESP32-C3FH4-v1.3.G2
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D137
+    D139
+    D143
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ESP32-C3FH4-v1.3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D28
+    D30
+    D34
+    D82
+    D83
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ESP32-C3FH4-v1.3.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D30
+    D34
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D144
+    D145
 *************************************************************
 
 *************************************************************
@@ -421,11 +296,11 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D29
-    D31
-    D35
+    D28
+    D30
+    D34
+    D144
     D145
-    D146
 *************************************************************
 
 *************************************************************
@@ -441,9 +316,132 @@ Used DCodes :
     D15
     D16
     D17
-    D18
+    D83
+    D148
     D149
-    D150
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ESP32-C3FH4-v1.3.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D152
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ESP32-C3FH4-v1.3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ESP32-C3FH4-v1.3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ESP32-C3FH4-v1.3.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D84
+    D85
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
 *************************************************************
 
 *************************************************************
@@ -457,10 +455,10 @@ Generating : Drill Drawing
 
 Used DCodes :
     D11
-    D17
+    D83
+    D153
     D154
     D155
-    D156
 *************************************************************
 
 *************************************************************
@@ -473,7 +471,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D154
+    D153
 *************************************************************
 
 *************************************************************
@@ -482,6 +480,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D157
+    D156
 *************************************************************
 

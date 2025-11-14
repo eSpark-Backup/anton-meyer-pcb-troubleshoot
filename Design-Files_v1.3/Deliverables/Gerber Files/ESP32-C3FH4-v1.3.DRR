@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ESP32-C3FH4-v1.3.PcbDoc   11/11/2025  7:59:20 PM
+NCDrill File Report For: ESP32-C3FH4-v1.3.PcbDoc   11/14/2025  7:23:05 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,11 +9,11 @@ ASCII SlotHoles File : ESP32-C3FH4-v1.3-SlotHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.2mm (8mil)                                              Round             8         PTH        9.10mm (0.36inch)
-T2      0.254mm (10mil)                                           Round             120       PTH        419.27mm (16.51inch)
-T3      0.7mm (28mil)                                             Round             5         PTH        5.08mm (0.20inch)
+T2      0.254mm (10mil)                                           Round             119       PTH        417.37mm (16.43inch)
+T3      0.5mm (20mil)                                             Round             5         PTH        5.00mm (0.20inch)
 T4      0.7mm (28mil)                                             Slot              4         PTH        37.76mm (1.49inch)
 T5      0.9mm (35mil)                                             Round             5         PTH        10.16mm (0.40inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              142
+Totals                                                                              141
 
 Total Processing Time (hh:mm:ss) : 00:00:00
