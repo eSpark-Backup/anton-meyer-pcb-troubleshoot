@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\eSpark-Consultants\GitHub\antonmeyer-pcbtroubleshoot\Design-Files_v1.3\ESP32-C3FH4-v1.3.PcbDoc
+DRC Rules Export File for PCB: E:\aSim Data\GitHub\antonmeyer-pcbtroubleshoot\Design-Files_v1.3\ESP32-C3FH4-v1.3.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00

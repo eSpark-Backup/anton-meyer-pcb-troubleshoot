@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-D:\eSpark-Consultants\GitHub\antonmeyer-pcbtroubleshoot\Design-Files_v1.3\Project Outputs for ESP32-C3FH4-v1.3\Pick Place for ESP32-C3FH4-v1.3.txt
+E:\aSim Data\GitHub\antonmeyer-pcbtroubleshoot\Design-Files_v1.3\Project Outputs for ESP32-C3FH4-v1.3\Pick Place for ESP32-C3FH4-v1.3.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       14/11/25
-Time:       19:21
-Revision:   52713ec3a046ad8f6468f9c3915b7a9d83000495
+Time:       23:49
+Revision:   b9dc703e76ecac6a13f8adf4bbd91769ee4e36c0
 Variant:    No variations
 Units used: mm
 
@@ -67,6 +67,6 @@ U2         22,1080mm    28,0870mm    TopLayer    270      22,1080mm 28,0870mm 30
 U3         20,9237mm    2,7185mm     TopLayer    0        20,9110mm 2,7185mm  18,2440mm 7,1635mm  
 U4         -1,4732mm    21,0058mm    TopLayer    0        -1,4732mm 21,0058mm -2,2332mm 21,7558mm 
 U5         14,5879mm    42,4677mm    TopLayer    180      18,8243mm 43,3230mm 16,1573mm 42,4681mm 
-U6         -1,7791mm    7,2263mm     TopLayer    90       -1,7791mm 7,2263mm  -1,7791mm 4,7264mm  
+U6         -0,7631mm    7,2263mm     TopLayer    270      -0,7631mm 7,2263mm  -0,7631mm 9,7262mm  
 U8         -1,5000mm    15,1750mm    TopLayer    180      -1,5000mm 15,1750mm -2,2249mm 14,1999mm 
 USB1       10,8278mm    0,9215mm     TopLayer    0        10,8278mm 0,9215mm  6,5077mm  2,6866mm  
